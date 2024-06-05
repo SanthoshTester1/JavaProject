@@ -1,4 +1,4 @@
-package com.ArraysConcepts;
+package ArraysConcepts;
 
 public class Sumofdigits {
 	public static void main(String[] args) {
