@@ -2,7 +2,7 @@ package FAQ.Programs;
 
 import java.util.Scanner;
 
-public class PalindromeString$ {
+public class PalindromeString$5 {
 		public static void main(String[] args) {
 			System.out.print("Enter name:- ");
 			Scanner user = new Scanner(System.in);
