@@ -1,4 +1,5 @@
-java.util.Scanner;
+package FAQ.Programs;
+import java.util.Scanner;
 
 class Sample {
     public static void main(String[] args){
