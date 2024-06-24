@@ -1,4 +1,8 @@
 package FAQ.Programs;
+<<<<<<< HEAD:src/main/java/FAQ/Programs/Numbersprint$0.java
+=======
+import java.util.Scanner;
+>>>>>>> 036ed44c5ac3a4135078d79985f8d9b9bd0c7784:src/main/java/FAQ/Programs/SampleFIle$0.java
 
 import java.util.Scanner;
 
