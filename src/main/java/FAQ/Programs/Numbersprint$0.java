@@ -1,12 +1,14 @@
-java.util.Scanner;
+package FAQ.Programs;
 
-class Sample {
+import java.util.Scanner;
+
+class Numbersprint$0 {
     public static void main(String[] args){
         System.out.print("Enter a Number:- ");
         Scanner user = new Scanner(System.in);
         int Num = user.nextInt();
-        for(int i = 0 ; i < Num ; i++){
-            System.out.println(i);
+        for(int i = 1 ; i <= Num ; i++){
+            System.out.print(i+" ");
         }
     }
 }
